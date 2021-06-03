@@ -1,0 +1,163 @@
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\SkillEvaluationMVC.dll.config
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\SkillEvaluationMVC.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\SkillEvaluationMVC.pdb
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\csc.exe
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\csc.exe.config
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\csc.rsp
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\csi.exe
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\csi.exe.config
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\csi.rsp
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.AppContext.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Console.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.IO.Compression.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.IO.Pipes.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.Claims.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.ValueTuple.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\vbc.exe
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\vbc.exe.config
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\vbc.rsp
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\VBCSCompiler.exe
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Antlr3.Runtime.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Newtonsoft.Json.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Helpers.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Mvc.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Optimization.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Razor.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Webpages.Deployment.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Webpages.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Webpages.Razor.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\WebGrease.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Antlr3.Runtime.pdb
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Newtonsoft.Json.xml
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Optimization.xml
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Razor.xml
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Webpages.xml
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Webpages.Deployment.xml
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Webpages.Razor.xml
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Helpers.xml
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Mvc.xml
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\obj\Debug\SkillEvaluationMVC.csproj.CoreCompileInputs.cache
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\obj\Debug\SkillEvaluationMVC.csproj.CopyComplete
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\obj\Debug\SkillEvaluationMVC.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\obj\Debug\SkillEvaluationMVC.pdb
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\EntityFramework.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\EntityFramework.SqlServer.dll
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\EntityFramework.xml
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\EntityFramework.SqlServer.xml
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\obj\Debug\SkillEvaluationMVC.Migrations.Init.resources
+E:\Projects\SkillEvaluationMVC\SkillEvaluationMVC\obj\Debug\SkillEvaluationMVC.csproj.GenerateResource.cache
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\SkillEvaluationMVC.dll.config
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\SkillEvaluationMVC.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\SkillEvaluationMVC.pdb
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\csc.exe
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\csc.exe.config
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\csc.rsp
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\csi.exe
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\csi.exe.config
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\csi.rsp
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.AppContext.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Console.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.IO.Compression.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.IO.FileSystem.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.IO.Pipes.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.AccessControl.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.Claims.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.ValueTuple.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Xml.XPath.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\vbc.exe
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\vbc.exe.config
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\vbc.rsp
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\VBCSCompiler.exe
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Antlr3.Runtime.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\EntityFramework.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\EntityFramework.SqlServer.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Newtonsoft.Json.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Helpers.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Mvc.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Optimization.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Razor.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Webpages.Deployment.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Webpages.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Webpages.Razor.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\WebGrease.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Antlr3.Runtime.pdb
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\EntityFramework.xml
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\EntityFramework.SqlServer.xml
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Newtonsoft.Json.xml
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Optimization.xml
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Razor.xml
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Webpages.xml
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Webpages.Deployment.xml
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Webpages.Razor.xml
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Helpers.xml
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\System.Web.Mvc.xml
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\obj\Debug\SkillEvaluationMVC.csprojAssemblyReference.cache
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\obj\Debug\SkillEvaluationMVC.Migrations.Init.resources
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\obj\Debug\SkillEvaluationMVC.csproj.GenerateResource.cache
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\obj\Debug\SkillEvaluationMVC.csproj.CoreCompileInputs.cache
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\obj\Debug\SkillEvaluationMVC.csproj.CopyComplete
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\obj\Debug\SkillEvaluationMVC.dll
+E:\Projects\practice projects\SkillEvaluationMVC\SkillEvaluationMVC\obj\Debug\SkillEvaluationMVC.pdb
